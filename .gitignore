@@ -1,0 +1,30 @@
+# OS clutter
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+*.cache
+
+# IDE/editor settings
+.vscode/
+.vs/
+.idea/
+
+# Environments and secrets
+.env
+.env.*
+
+# Common dependency/build folders
+vendor/
+node_modules/
+dist/
+build/
+
+# App data (optional; add back if you need them tracked)
+uploads/
+storage/
+cache/
+tmp/
